@@ -38,7 +38,7 @@ Pictures of the project working.
 
 | Name                    | Email                                                               | Github                                                       | Role      |
 | ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | --------- |
-| a | [](mailto:auro.tj@gmail.com) | [@AuroTB](https://github.com/aurotb) |  |
+| a | [](mailto:auro.tj@gmail.com) | [](https://github.com/) |  |
 |  | [](mailto:) | [](https://github.com/) | Result data decoding |
 |  | [](mailto: | [](https://github.com/) | Path finding |
 |  | [](mailto:) | [](https://github.com/) | Mechanics |
