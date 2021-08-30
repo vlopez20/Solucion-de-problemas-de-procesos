@@ -24,7 +24,7 @@
    SSH:
 
    ```bash
-   $ git clone --recurse-submodules https://github.com/Team-5-Group-1/Solucion-de-problemas-de-procesos.git
+    git clone https://github.com/Team-5-Group-1/Solucion-de-problemas-de-procesos.git
    ```
 
 
