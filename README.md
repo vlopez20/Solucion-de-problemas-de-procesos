@@ -24,7 +24,7 @@
    SSH:
 
    ```bash
-   $ git clone --recurse-submodules https://github.com/RoBorregos/
+   $ git clone --recurse-submodules https://github.com//
    ```
 
 
