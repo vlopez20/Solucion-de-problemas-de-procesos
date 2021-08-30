@@ -38,7 +38,7 @@ Pictures of the project working.
 
 | Name                    | Email                                                               | Github                                                       | Role      |
 | ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | --------- |
-| a | [](mailto:auro.tj@gmail.com) | [](https://github.com/) |  |
+|Diego Prado Chapa | [](mailto:diegochapa01@live.com) | [@DiegoPrado27](https://github.com/DiegoPrado27) |  |
 |  | [](mailto:) | [](https://github.com/) | Result data decoding |
 |  | [](mailto: | [](https://github.com/) | Path finding |
 |  | [](mailto:) | [](https://github.com/) | Mechanics |
