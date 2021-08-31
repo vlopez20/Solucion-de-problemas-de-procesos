@@ -1,6 +1,6 @@
 # Nombre: Valeria Natalí López de León
 # Matricula: A01283512
-# Memorama : tematica - santos
+# Memorama : tematica
 
 """
 Este programa tiene como propósito mostrar la forma de utilizar
