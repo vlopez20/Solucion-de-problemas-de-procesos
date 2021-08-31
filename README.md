@@ -40,7 +40,7 @@ Pictures of the project working.
 | ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | --------- |
 |Diego Prado Chapa | [diegochapa01@live.com](mailto:diegochapa01@live.com) | [@DiegoPrado27](https://github.com/DiegoPrado27) |Electronic |
 |  | [](mailto:) | [](https://github.com/) | Result data decoding |
-|  | [](mailto: | [](https://github.com/) | Path finding |
+| Valeria López de León | A01283512@itesm.mx | [@vlopez20](https://github.com/vlopez20) | Path finding |
 |  | [](mailto:) | [](https://github.com/) | Mechanics |
 
 
